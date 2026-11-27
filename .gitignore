@@ -1,0 +1,7 @@
+/target
+*.log
+scrcpy-rs-out/
+testdata/*.bmp
+/tools/adb/
+/reference/
+/.workbuddy/
